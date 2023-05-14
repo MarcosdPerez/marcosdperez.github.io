@@ -33,7 +33,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(to right, rgb(0 0 0 / .5),  rgb(0 0 0 / .5) ), url(../img/hawaii.jpg);
+    background: linear-gradient(to right, rgb(0 0 0 / .5),  rgb(0 0 0 / .5) ), url(hawaii.jpg);
     background-size: cover;
     background-position: center;
  }
@@ -106,15 +106,15 @@
  }
  
  .car-1{
-    background-image: url(../img/steve.jpg);
+    background-image: url(../steve.jpg);
     
  }
  .car-2{
-    background-image: url(../img/bill.jpg);
+    background-image: url(../bill.jpg);
     
  }
  .car-3{
-    background-image: url(../img/ada.jpeg);
+    background-image: url(../ada.jpeg);
     
  }
  
@@ -131,7 +131,7 @@
  }
  
  .left{
-    background: url(../img/honolulu.jpg);
+    background: url(honolulu.jpg);
     background-size: cover;
     background-position: center;
     width: 50%;
