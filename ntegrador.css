@@ -33,7 +33,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(to right, rgb(0 0 0 / .5),  rgb(0 0 0 / .5) ), url(hawaii.jpg);
+    background: linear-gradient(to right, rgb(0 0 0 / .5),  rgb(0 0 0 / .5) ), url(../hawaii.jpg);
     background-size: cover;
     background-position: center;
  }
