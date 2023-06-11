@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+ }
+ 
+ header {
+    background: #353A40;
+    display: inline-block;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+   }
+ 
+ .logo {
+    display: inherit;
+    font-size: 20px;
+   
+ }
+ 
+ .logo img {
+    height: 75px;
+    vertical-align: middle;
+    margin-left: 10px;
+    
+ }
+ 
+ .wrap{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, rgb(0 0 0 / .5),  rgb(0 0 0 / .5) ), url(../java\ fullstak/img/hawaii.jpg);
+    background-size: cover;
+    background-position: center;
+ }
+ .wrap-texto h1{
+   margin:180px 0px 0px 0px ;
+ }
+ .wrap-texto{
+    color: rgb(238, 233, 224);
+    text-align: right;
+    width: 60%;
+    position: absolute;
+    right: 100px;
+    
+  }
+ 
+ h2 {
+    color: white;
+    display: inline-block;
+ }
+ 
+ nav {
+    float: right; 
+    padding: 35px;
+       
+ }
+ 
+ 
+ a {
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+ }
+ 
+
+ .div {
+   margin: 200px;
+   
+   text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+   
+    
+    
+   
+ }
+   .junior .estudiante .trainee{
+      margin: 10px 20px;
+   width: 200px;
+   height: 200px;
+   border: solid 1px blueviolet;
+
+
+ }
+ 
+ .titulo{
+   padding: 10px;
+   text-align: center;
+ }
+ 
+ h3 h4 {
+    text-align: left;
+ }
+ 
+ .btn-primary{
+    background-color: rgb(10, 158, 184) ;
+ }
+ .card {
+    width: 80%;
+    height: 400px;
+    margin: 50px 20px;
+    padding: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    
+ }
+ 
+ 
+ 
+
+    
+ 
+ 
+ .card .p{
+    display:flex;
+ }
+ 
+ 
+ 
+ 
+    
+    
+    #split{
+       display: flex;
+      
+   }
+    
+ 
+    .form {
+       text-align: center;
+       font-family:Arial, Helvetica, sans-serif;
+       color: #353A40;
+       padding: 10px;
+   
+    }
+    .row{
+       align-items: center;
+       justify-content: center;
+       padding: 20px;
+
+   
+ }
+ 
+ footer{
+    background-color: #0b3153;
+    justify-content:right;
+    width: 100%;
+    font-weight: 600;
+    display: flex;
+    font-size: 15px;
+    margin:  200px 0px  ;
+    justify-content:space-around ;
+    position: absolute;
+    
+   }
+  
+ 
+   section {
+    height: 70vh;
+    position: relative;
+ }
+ 
